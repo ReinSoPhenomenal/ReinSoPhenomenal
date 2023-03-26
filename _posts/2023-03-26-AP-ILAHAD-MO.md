@@ -14,7 +14,7 @@ Tulad nakasulat sa kahulugan, kahit sino ay maaaring maging biktima nito.
 <br>
 Ayon sa [Council of Europe](https://www.coe.int/en/web/compass/discrimination-and-intolerance), ***ito'y madalas nangyayari sa mga may edad, kapansanan, ibang etnisidad, pinanggalingan, ibang paniniwala sa pulitika, lahi, relihiyon, kasarian, oryentasyong sekswal, wika, kultura at sa marami pang ibang batayan.***
 <br>
-Kahit anong posisyon mo sa mundo, ***hahanap ng paraan ang mga tao upang ibaba ang iyong moral.***
+Kahit anong posisyon mo sa mundo, **hahanap ng paraan ang mga tao upang ibaba ang iyong moral.**
 <br>
 
 #### Bakit ito nangyayari?
