@@ -12,7 +12,7 @@ Ngunit ang pagpapaliwanag kung bakit ito nangyayari ay mas kumplikado.
 #### Ano ang mga maaaring pagmulan ng diskriminasyon?
 Tulad nakasulat sa kahulugan, kahit sino ay maaaring maging biktima nito.
 <br>
-Ayon sa [Council of Europe](https://www.coe.int/en/web/compass/discrimination-and-intolerance), ito'y madalas nangyayari tungkol sa edad, kapansanan, etnisidad, pinanggalingan, paniniwala sa pulitika, lahi, relihiyon, kasarian o kasarian, oryentasyong sekswal, wika, kultura at sa marami pang ibang batayan.
+Ayon sa [Council of Europe](https://www.coe.int/en/web/compass/discrimination-and-intolerance), ***ito'y madalas nangyayari sa mga may edad, kapansanan, ibang etnisidad, pinanggalingan, ibang paniniwala sa pulitika, lahi, relihiyon, kasarian, oryentasyong sekswal, wika, kultura at sa marami pang ibang batayan.***
 <br>
 Kahit anong posisyon mo sa mundo, ***hahanap ng paraan ang mga tao upang ibaba ang iyong moral.***
 <br>
