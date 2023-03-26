@@ -25,7 +25,7 @@ Sa madaling salita, ito'y nangayayari tuwing may **inequality o hindi patas na p
 Maaari din na isang rason ang pagkainggit.
 
 #### Halimbawa
-{% include youtubePlayer.html id="FAI-gNF0Hk8" %}
+<iframe width="420" height="315" src="http://www.youtube.com/embed/FAI-gNF0Hk8" frameborder="0" allowfullscreen></iframe>
 <br>
 ***Detroit: Become Human*** - isang video game na nagpapakita ng isang mundo na kung saan nabubuhay ang mga tao kasama ang mga robot/android.
 <br>
