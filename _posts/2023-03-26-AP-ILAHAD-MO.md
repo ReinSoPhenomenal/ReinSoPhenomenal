@@ -35,6 +35,18 @@ Maaari din na isang rason ang pagkainggit.
 Ito'y isang halimbawa lamang, ngunit may ganitong nangyayari sa totoong buhay.
 
 <br>
-Isa pang halimbawa ay ang [George Floyd incident noong May 25, 2020.](https://www.youtube.com/watch?v=YPSwqp5fdIw).
+Isa pang halimbawa ay ang [George Floyd incident noong May 25, 2020.](https://www.youtube.com/watch?v=YPSwqp5fdIw)
 <br>
 ***WARNING - GRAPHIC***
+
+### Epekto
+Ayon sa [University of California, Los Angeles](https://newsroom.ucla.edu/stories/discrimination-can-be-harmful-to-your-mental-health), ang mga epekto nito ay maaring magresulta ng mas ***mababang tiwala sa sarili*** at maaari ring magresulta ng ***mas mataas na pagkakataon na magkaroon ng stress-related disorders tulad ng anxiety at depresyon.***
+
+### Konklusyon
+Ang diskriminasyon ay isang bagay na hindi kinakailangan ng ating mundo. Sino ba namang gustong mahusgahan batay sa iyong opinyon o pisikal na anyo?
+<br>
+Kung ika'y tinanggihan ng ibang kapwa batay sa isa sa mga salik sa taas, hindi ba't malulungkot o maiinis ka?
+<br>
+Sa kasamaang palad, hindi mawawala ang diskriminasyon sa ating mundo, kahit anong gawin natin.
+<br>
+Magsimula tayo sa sarili natin, na tanggapin ang sarili nating pagkatao, at ng ating kapwa.
