@@ -19,3 +19,7 @@ Kahit anong posisyon mo sa mundo, **hahanap ng paraan ang mga tao upang ibaba an
 
 #### Bakit ito nangyayari?
 Ayon sa [Council of Europe](https://www.coe.int/en/web/compass/discrimination-and-intolerance), kapag ang mga tao ay hindi gaanong tinatrato ng patas sa kapwa nila ay nasa isang maihahambing na sitwasyon dahil lamang sila ay kabilang, o itinuturing na kabilang sa isang partikular na grupo o kategorya ng mga tao, ito ay nagaganap.
+<br>
+Sa madaling salita, ito'y nangayayari tuwing may **inequality o hindi patas na pagtrato sa kapwa** na nagaganap.
+<br>
+Maaari din na isang rason ang pagkainggit.
