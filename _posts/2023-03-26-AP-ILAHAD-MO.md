@@ -33,5 +33,8 @@ Maaari din na isang rason ang pagkainggit.
 **(Karahasan/Diskriminasyon sa Mga Android)**
 <br>
 Ito'y isang halimbawa lamang, ngunit may ganitong nangyayari sa totoong buhay.
+
 <br>
-Tulad na lamang ng [George Floyd incident noong May 25, 2020.](https://www.youtube.com/watch?v=YPSwqp5fdIw), na totoong nangyari sa Estados Unidos.
+Isa pang halimbawa ay ang [George Floyd incident noong May 25, 2020.](https://www.youtube.com/watch?v=YPSwqp5fdIw).
+<br>
+***WARNING - GRAPHIC***
