@@ -2,9 +2,11 @@
 
 ### Diskriminasyon
 #### Ano nga ba ang kahulugan nito?
-Ayon sa [American Psychological Association](https://www.apa.org/topics/racism-bias-discrimination/types-stress), Ang diskriminasyon ay ang hindi patas o masasamang pagtrato sa mga tao at grupo batay sa mga katangian tulad ng lahi, kasarian, edad, o oryentasyong sekswal. Yan ang simpleng sagot. Ngunit ang pagpapaliwanag kung bakit ito nangyayari ay mas kumplikado.
+Ayon sa [American Psychological Association](https://www.apa.org/topics/racism-bias-discrimination/types-stress), ***Ang diskriminasyon ay ang hindi patas o masasamang pagtrato sa mga tao at grupo batay sa mga katangian tulad ng lahi, kasarian, edad, o oryentasyong sekswal.*** 
 <br>
-Kahit sino ay maaaring maging biktima ng diksriminasyon.
+Ngunit ang pagpapaliwanag kung bakit ito nangyayari ay mas kumplikado.
+<br>
+**Kahit sino ay maaaring maging biktima ng diksriminasyon.**
 
 ### Sanhi
 #### Ano ang mga maaaring pagmulan ng diskriminasyon?
