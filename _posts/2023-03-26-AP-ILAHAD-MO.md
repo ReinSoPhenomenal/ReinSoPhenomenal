@@ -25,3 +25,8 @@ Sa madaling salita, ito'y nangayayari tuwing may **inequality o hindi patas na p
 Maaari din na isang rason ang pagkainggit.
 
 #### Halimbawa
+{% include youtubePlayer.html id="FAI-gNF0Hk8" %}
+<br>
+***Detroit: Become Human*** - isang video game na nagpapakita ng isang mundo na kung saan nabubuhay ang mga tao kasama ang mga robot/android.
+<br>
+(Karahasan/Diskriminasyon sa Mga Android)
