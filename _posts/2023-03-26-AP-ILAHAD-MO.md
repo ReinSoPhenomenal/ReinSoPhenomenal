@@ -29,4 +29,4 @@ Maaari din na isang rason ang pagkainggit.
 <br>
 ***Detroit: Become Human*** - isang video game na nagpapakita ng isang mundo na kung saan nabubuhay ang mga tao kasama ang mga robot/android.
 <br>
-(Karahasan/Diskriminasyon sa Mga Android)
+**(Karahasan/Diskriminasyon sa Mga Android)**
