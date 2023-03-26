@@ -34,5 +34,4 @@ Maaari din na isang rason ang pagkainggit.
 <br>
 Ito'y isang halimbawa lamang, ngunit may ganitong nangyayari sa totoong buhay.
 <br>
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=YPSwqp5fdIw" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
 Tulad na lamang ng [George Floyd incident noong May 25, 2020.](https://www.youtube.com/watch?v=YPSwqp5fdIw), na totoong nangyari sa Estados Unidos.
