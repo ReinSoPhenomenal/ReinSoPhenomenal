@@ -23,3 +23,5 @@ Ayon sa [Council of Europe](https://www.coe.int/en/web/compass/discrimination-an
 Sa madaling salita, ito'y nangayayari tuwing may **inequality o hindi patas na pagtrato sa kapwa** na nagaganap.
 <br>
 Maaari din na isang rason ang pagkainggit.
+
+#### Halimbawa
