@@ -2,7 +2,7 @@
 
 ### Diskriminasyon
 #### Ano nga ba ang kahulugan nito?
-Ayon sa [Merriam Webster](https://www.merriam-webster.com/dictionary/discrimination), ang diskriminasyon ay ang aksyon kung saan may pag-uuring nagaganap, nakapipinsalang pananaw, aksyon, o pagtrato ang isang tao sa kaniyang kapwa.
+Ayon sa [American Psychological Association](https://www.apa.org/topics/racism-bias-discrimination/types-stress), Ang diskriminasyon ay ang hindi patas o masasamang pagtrato sa mga tao at grupo batay sa mga katangian tulad ng lahi, kasarian, edad, o oryentasyong sekswal. Yan ang simpleng sagot. Ngunit ang pagpapaliwanag kung bakit ito nangyayari ay mas kumplikado.
 <br>
 Kahit sino ay maaaring maging biktima ng diksriminasyon.
 
@@ -16,3 +16,4 @@ Kahit anong posisyon mo sa mundo, ***hahanap ng paraan ang mga tao upang ibaba a
 <br>
 
 #### Bakit ito nangyayari?
+Ayon sa [Council of Europe](https://www.coe.int/en/web/compass/discrimination-and-intolerance), kapag ang mga tao ay hindi gaanong tinatrato ng patas sa kapwa nila ay nasa isang maihahambing na sitwasyon dahil lamang sila ay kabilang, o itinuturing na kabilang sa isang partikular na grupo o kategorya ng mga tao, ito ay nagaganap.
