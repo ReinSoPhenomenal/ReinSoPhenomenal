@@ -1,5 +1,22 @@
-header: yes
-header_med: assets/images/wasurenaiwasmilefade.png
+image:
+  # --------------------------------------------------------------------------
+  # home_image_banner
+  #
+  - name:                               Home Image Banner
+    banner:
+      enabled:                          true
+      id:                               home_image_banner
+      comment:                          Image banner shown on home page
+      type:                             image
+      properties:                       mt-6 mb-6
+      image:
+        gridify:                        false
+        height:                         450
+        justify:                        true
+        brightness:                     80
+        opacity:                        false
+        picture:                        /assets/images/wasurenaiwasmilefade.PNG
+        
 title: "忘れないわ"
 author: "Rein L."
 description: "A student from 10-Socrates' collection of schoolworks." 
